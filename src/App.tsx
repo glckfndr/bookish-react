@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Typography variant="h2" component="h2" data-test="heading">
-        Book Store
+        Bookish Store
       </Typography>
     </div>
   );
